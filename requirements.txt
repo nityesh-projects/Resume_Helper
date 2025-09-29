@@ -15,3 +15,5 @@ tiktoken
 
 # Environment variable management
 python-dotenv
+
+pypdf
