@@ -1,0 +1,17 @@
+# Core framework
+streamlit
+langchain
+pydantic
+
+# LangChain integrations
+langchain-community
+langchain-openai
+
+# Vector store
+chromadb
+
+# Tokenizer for OpenAI
+tiktoken
+
+# Environment variable management
+python-dotenv
